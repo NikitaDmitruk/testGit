@@ -1,3 +1,5 @@
 This is someone's new feature!
 Added new feature!
 Added second feature!
+This is the second change.
+
